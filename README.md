@@ -15,6 +15,9 @@ This project is designed with **new developers in mind**, making it easy to:
 
 > 🎨 The UI is clean and minimal by default, but **100% customizable** – make it yours!
 
+🖼️ Preview
+Here's what the default installer looks like (you can change all of it!):
+![Screenshot 2025-04-19 134428](https://github.com/user-attachments/assets/71442694-6b95-42b8-a251-e49efc00ad9d)
 
 
 ## 🚀 Features
