@@ -1,0 +1,17 @@
+C:\Users\Admin\Downloads\Installer multi tool\bin\Release\net8.0-windows\Installer multi tool.exe
+C:\Users\Admin\Downloads\Installer multi tool\bin\Release\net8.0-windows\Installer multi tool.deps.json
+C:\Users\Admin\Downloads\Installer multi tool\bin\Release\net8.0-windows\Installer multi tool.runtimeconfig.json
+C:\Users\Admin\Downloads\Installer multi tool\bin\Release\net8.0-windows\Installer multi tool.dll
+C:\Users\Admin\Downloads\Installer multi tool\bin\Release\net8.0-windows\Installer multi tool.pdb
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer_multi_tool.Form1.resources
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer_multi_tool.Properties.Resources.resources
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer multi tool.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer multi tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer multi tool.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer multi tool.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer multi tool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer multi tool.dll
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\refint\Installer multi tool.dll
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer multi tool.pdb
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\Installer multi tool.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Installer multi tool\obj\Release\net8.0-windows\ref\Installer multi tool.dll
